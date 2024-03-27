@@ -7,7 +7,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a>
+  <a style="cursor:default">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vite,react,astro,py,django,mongodb,mysql,postgres,figma,docker,git,github,vscode,blender,godot&perline=10" />
   </a>
 </p>
