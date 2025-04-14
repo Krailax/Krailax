@@ -73,6 +73,22 @@ Estoy abierto a participar en proyectos open-source, hackatones y comunidades te
   </tr>
 </table>
 
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Krailax&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" /><br /><br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krailax&theme=radical&hide_border=true&background=0d1117" />
+    </td>
+    <td align="center" valign="top">
+      <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krailax&count_private=true&theme=radical" alt="Krailax" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
